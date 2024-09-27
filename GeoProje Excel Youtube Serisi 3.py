@@ -13,3 +13,5 @@ for satir in range (2,satir_sayisi+1):
     sayfa.cell(row=satir, column=4, value=ortalama)
 
 dosya.save("C:\\Users\\kadir\\Desktop\\data.xlsx")"""
+
+print("sa")
